@@ -1,0 +1,6 @@
+framework module Pods_iconfinder {
+  umbrella header "Pods-iconfinder-umbrella.h"
+
+  export *
+  module * { export * }
+}
